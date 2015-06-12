@@ -1,0 +1,9 @@
+web1:
+  php_display_errors: "1"
+  shared_writable_dirs:
+    - wp-content/uploads
+  php_extensions:
+    - mysql
+    - gd
+    - apc
+    - curl

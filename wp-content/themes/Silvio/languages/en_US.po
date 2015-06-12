@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Silvio Theme\n"
+"POT-Creation-Date: 2013-07-22 16:59+0200\n"
+"PO-Revision-Date: 2013-07-22 17:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: Silvio Team\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:5
+msgid "NOTHING FOUND"
+msgstr ""
+
+#: ../404.php:7
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr ""
+
+#: ../404.php:9
+msgid "GO BACK"
+msgstr ""
+
+#: ../archive.php:7
+msgid "Category Archive for"
+msgstr ""
+
+#: ../archive.php:10
+msgid "Posts Tagged"
+msgstr ""
+
+#: ../archive.php:13 ../archive.php:16 ../archive.php:19
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:22
+msgid "Author Archive"
+msgstr ""
+
+#: ../archive.php:25
+msgid "Blog Archives"
+msgstr ""
+
+#: ../archive.php:32 ../index.php:11 ../page.php:9 ../search.php:10
+#: ../single.php:9 ../template-page-scroll.php:13
+msgid "by"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:138
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:180
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:285
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:286
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:287
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:299
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:300
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:301
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../header.php:50 ../inc/cpt-clients.php:10
+msgid "Clients"
+msgstr ""
+
+#: ../header.php:51
+msgid "Blog"
+msgstr ""
+
+#: ../header.php:52
+msgid "Contact"
+msgstr ""
+
+#: ../index.php:19 ../single-clients.php:17 ../single-portfolio.php:60
+#: ../single.php:16
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../index.php:38
+msgid "read more"
+msgstr ""
+
+#: ../index.php:42 ../page.php:13 ../single-clients.php:34 ../single.php:33
+#: ../template-page-scroll.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../index.php:53 ../template-portfolio.php:71 ../template-team.php:49
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../search.php:5
+msgid "Search Results for"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "To search type and hit enter"
+msgstr ""
+
+#: ../template-portfolio.php:15
+msgid "All"
+msgstr ""
+
+#: ../template-portfolio.php:56 ../inc/widgets/blog.php:45
+msgid "more&hellip;"
+msgstr ""
+
+#: ../template-team.php:32
+msgid "send email"
+msgstr ""
+
+#: ../template-team.php:33
+msgid "more info"
+msgstr ""
+
+#: ../inc/cpt-clients.php:11
+msgid "Client"
+msgstr ""
+
+#: ../inc/cpt-clients.php:12 ../inc/cpt-clients.php:13
+#: ../inc/cpt-clients.php:15
+msgid "Add New Client"
+msgstr ""
+
+#: ../inc/cpt-clients.php:14
+msgid "Edit Client"
+msgstr ""
+
+#: ../inc/cpt-clients.php:16
+msgid "View Client"
+msgstr ""
+
+#: ../inc/cpt-clients.php:17
+msgid "Search Clients"
+msgstr ""
+
+#: ../inc/cpt-clients.php:18
+msgid "No clients found"
+msgstr ""
+
+#: ../inc/cpt-clients.php:19
+msgid "No clients found in trash"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:23
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:24
+msgid "Add New Item"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:25 ../inc/cpt-portfolio.php:27
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:26
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:28
+msgid "View Item"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:29
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:30
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:31
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:58
+msgctxt "column name"
+msgid "Title"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:59
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:60
+msgid "Filter"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:61
+msgid "Author"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:62
+msgid "Comments"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:63
+msgid "Date"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:88 ../inc/cpt-portfolio.php:98
+msgid "None"
+msgstr ""
+
+#: ../inc/cpt-team.php:10
+msgid "Team"
+msgstr ""
+
+#: ../inc/cpt-team.php:11
+msgid "Team Member"
+msgstr ""
+
+#: ../inc/cpt-team.php:12
+msgid "Add New Member"
+msgstr ""
+
+#: ../inc/cpt-team.php:13 ../inc/cpt-team.php:15
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../inc/cpt-team.php:14
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../inc/cpt-team.php:16
+msgid "View Team Member"
+msgstr ""
+
+#: ../inc/cpt-team.php:17
+msgid "Search Team"
+msgstr ""
+
+#: ../inc/cpt-team.php:18
+msgid "No team members found"
+msgstr ""
+
+#: ../inc/cpt-team.php:19
+msgid "No team members found in trash"
+msgstr ""
+
+#: ../inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:31
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:35
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../inc/template-tags.php:36
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:41
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:45
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:68
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:68 ../inc/template-tags.php:89
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:78
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:81
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:87
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:116
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/widgets/blog.php:23
+msgid "Display your recent posts"
+msgstr ""
+
+#: ../inc/widgets/blog.php:25
+msgid "silver.RecentPosts"
+msgstr ""
+
+#: ../inc/widgets/social.php:23
+msgid "Display your social links"
+msgstr ""
+
+#: ../inc/widgets/social.php:25
+msgid "silver.socialLinks"
+msgstr ""

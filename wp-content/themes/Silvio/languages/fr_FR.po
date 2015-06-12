@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Silvio Theme\n"
+"POT-Creation-Date: 2013-07-22 16:59+0200\n"
+"PO-Revision-Date: 2013-07-27 20:03+0900\n"
+"Last-Translator: \n"
+"Language-Team: Silvio Team\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:5
+msgid "NOTHING FOUND"
+msgstr "Il n'y a rien ici"
+
+#: ../404.php:7
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr ""
+"La page que vous cherchez n'existe plus, a changé de nom ou n'est pas "
+"accessible temporairement."
+
+#: ../404.php:9
+msgid "GO BACK"
+msgstr "RETOUR"
+
+#: ../archive.php:7
+msgid "Category Archive for"
+msgstr "Archive de la catégorie "
+
+#: ../archive.php:10
+msgid "Posts Tagged"
+msgstr "Article tagué"
+
+#: ../archive.php:13 ../archive.php:16 ../archive.php:19
+msgid "Archive for"
+msgstr "Archive pour"
+
+#: ../archive.php:22
+msgid "Author Archive"
+msgstr "Archive des auteurs"
+
+#: ../archive.php:25
+msgid "Blog Archives"
+msgstr "Archives des blogues"
+
+#: ../archive.php:32 ../index.php:11 ../page.php:9 ../search.php:10
+#: ../single.php:9 ../template-page-scroll.php:13
+msgid "by"
+msgstr "de"
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires précédents"
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires Suivants &rarr;"
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: ../functions.php:138
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: ../functions.php:180
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: ../functions.php:285
+msgid "Install Required Plugins"
+msgstr "Installer les plug-in nécessaires"
+
+#: ../functions.php:286
+msgid "Install Plugins"
+msgstr "Installer les plugin-in"
+
+#: ../functions.php:287
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "En train d'installer le plug-in: %s"
+
+#: ../functions.php:288
+msgid "Something went wrong with the plugin API."
+msgstr "Il y avait une erreur avec l'API plug-in"
+
+#: ../functions.php:299
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner au installateur plug-in"
+
+#: ../functions.php:300
+msgid "Plugin activated successfully."
+msgstr "Plug-in activé avec success"
+
+#: ../functions.php:301
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tous les plug-ins ont été activé avec succes. %s"
+
+#: ../header.php:50 ../inc/cpt-clients.php:10
+msgid "Clients"
+msgstr "Clients"
+
+#: ../header.php:51
+msgid "Blog"
+msgstr "Blogue"
+
+#: ../header.php:52
+msgid "Contact"
+msgstr "Contact"
+
+#: ../index.php:19 ../single-clients.php:17 ../single-portfolio.php:60
+#: ../single.php:16
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink à %s"
+
+#: ../index.php:38
+msgid "read more"
+msgstr "lire plus"
+
+#: ../index.php:42 ../page.php:13 ../single-clients.php:34 ../single.php:33
+#: ../template-page-scroll.php:18
+msgid "Pages:"
+msgstr "Pages:"
+
+#: ../index.php:53 ../template-portfolio.php:71 ../template-team.php:49
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun article correspond aux critères."
+
+#: ../search.php:5
+msgid "Search Results for"
+msgstr "Résultats de la recherche"
+
+#: ../searchform.php:2
+msgid "To search type and hit enter"
+msgstr "Pour rechercher tapez un mot et enter"
+
+#: ../template-portfolio.php:15
+msgid "All"
+msgstr "Tous"
+
+#: ../template-portfolio.php:56 ../inc/widgets/blog.php:45
+msgid "more&hellip;"
+msgstr "plus&hellip;"
+
+#: ../template-team.php:32
+msgid "send email"
+msgstr "Envoyer un courriel"
+
+#: ../template-team.php:33
+msgid "more info"
+msgstr "plus d'info"
+
+#: ../inc/cpt-clients.php:11
+msgid "Client"
+msgstr "Client"
+
+#: ../inc/cpt-clients.php:12 ../inc/cpt-clients.php:13
+#: ../inc/cpt-clients.php:15
+msgid "Add New Client"
+msgstr "Ajouter nouveau client"
+
+#: ../inc/cpt-clients.php:14
+msgid "Edit Client"
+msgstr "Modifier client"
+
+#: ../inc/cpt-clients.php:16
+msgid "View Client"
+msgstr "Inspecter client"
+
+#: ../inc/cpt-clients.php:17
+msgid "Search Clients"
+msgstr "Rechercher Client"
+
+#: ../inc/cpt-clients.php:18
+msgid "No clients found"
+msgstr "Aucun client trouvé"
+
+#: ../inc/cpt-clients.php:19
+msgid "No clients found in trash"
+msgstr "Aucun client trouvé dans la poubelle"
+
+#: ../inc/cpt-portfolio.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/cpt-portfolio.php:23
+msgid "Portfolio Item"
+msgstr "Objet de Portfolio"
+
+#: ../inc/cpt-portfolio.php:24
+msgid "Add New Item"
+msgstr "Ajouter un nouveau object"
+
+#: ../inc/cpt-portfolio.php:25 ../inc/cpt-portfolio.php:27
+msgid "Add New Portfolio Item"
+msgstr "Ajouter nouveau objet de portfolio"
+
+#: ../inc/cpt-portfolio.php:26
+msgid "Edit Portfolio Item"
+msgstr "Modifier objet portfolio"
+
+#: ../inc/cpt-portfolio.php:28
+msgid "View Item"
+msgstr "Montrer objet"
+
+#: ../inc/cpt-portfolio.php:29
+msgid "Search Portfolio"
+msgstr "Fouiller le portfolio"
+
+#: ../inc/cpt-portfolio.php:30
+msgid "No portfolio items found"
+msgstr "Aucun objet portfolio trouvé"
+
+#: ../inc/cpt-portfolio.php:31
+msgid "No portfolio items found in trash"
+msgstr "Aucun objet portfolio trouvé dans la poubelle"
+
+#: ../inc/cpt-portfolio.php:58
+msgctxt "column name"
+msgid "Title"
+msgstr "Titre"
+
+#: ../inc/cpt-portfolio.php:59
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: ../inc/cpt-portfolio.php:60
+msgid "Filter"
+msgstr "Filtre"
+
+#: ../inc/cpt-portfolio.php:61
+msgid "Author"
+msgstr "Auteur"
+
+#: ../inc/cpt-portfolio.php:62
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../inc/cpt-portfolio.php:63
+msgid "Date"
+msgstr "Date"
+
+#: ../inc/cpt-portfolio.php:88 ../inc/cpt-portfolio.php:98
+msgid "None"
+msgstr "Aucun"
+
+#: ../inc/cpt-team.php:10
+msgid "Team"
+msgstr ""
+
+#: ../inc/cpt-team.php:11
+msgid "Team Member"
+msgstr "Membre de team"
+
+#: ../inc/cpt-team.php:12
+msgid "Add New Member"
+msgstr "Ajouter un nouveau membre"
+
+#: ../inc/cpt-team.php:13 ../inc/cpt-team.php:15
+msgid "Add New Team Member"
+msgstr "Ajouter un nouveau membre de team"
+
+#: ../inc/cpt-team.php:14
+msgid "Edit Team Member"
+msgstr "Modifier membre de team"
+
+#: ../inc/cpt-team.php:16
+msgid "View Team Member"
+msgstr "Montrer membre de team"
+
+#: ../inc/cpt-team.php:17
+msgid "Search Team"
+msgstr "Fouiller membres"
+
+#: ../inc/cpt-team.php:18
+msgid "No team members found"
+msgstr "Aucun membre trouvé"
+
+#: ../inc/cpt-team.php:19
+msgid "No team members found in trash"
+msgstr "Aucun membre trouvé dans la poubelle"
+
+#: ../inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: ../inc/template-tags.php:31
+msgid "Post navigation"
+msgstr "Navigation d'articles"
+
+#: ../inc/template-tags.php:35
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../inc/template-tags.php:36
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:41
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles précédents"
+
+#: ../inc/template-tags.php:45
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles Suivants <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:68
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:68 ../inc/template-tags.php:89
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../inc/template-tags.php:78
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dit:</span>"
+
+#: ../inc/template-tags.php:81
+msgid "Your comment is awaiting moderation."
+msgstr "Ton commentaire doit être vérifié "
+
+#: ../inc/template-tags.php:87
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: ../inc/template-tags.php:116
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"publié <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-"
+"date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> par <span "
+"class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+"rel=\"author\">%7$s</a></span></span>"
+
+#: ../inc/template-tags.php:122
+#, php-format
+msgid "View all posts by %s"
+msgstr "Montrer tous les articles de %s"
+
+#: ../inc/widgets/blog.php:23
+msgid "Display your recent posts"
+msgstr "Montrer tes derniers articles"
+
+#: ../inc/widgets/blog.php:25
+msgid "silver.RecentPosts"
+msgstr ""
+
+#: ../inc/widgets/social.php:23
+msgid "Display your social links"
+msgstr "Montrer tes liens sociale"
+
+#: ../inc/widgets/social.php:25
+msgid "silver.socialLinks"
+msgstr ""
